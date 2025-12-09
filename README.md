@@ -31,3 +31,34 @@ Here I will post and share all my progress in case someone wants to follow my bu
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
+
+To change the face expressions you first have to create your own, though I left a demo one.
+
+To execute the desired face you need to be inside of 
+
+"yourusername/rpi-rgb-led-matrix/bindings/python/samples" 
+
+and execute the code
+
+ "sudo python3 image-viewer.py *name_of_your_image.jpg or .png*
+
+## To create your own custom face expressions I recommend using Paint.net
+
+It's basically a free sowftware for Windows that works very well. 
+
+Although anything used for PixelArt should work just fine.
+------------------------------
+> [!TIP]
+>  The resolution needed is 32*64 pixels 
+
+> [!WARNING]  
+>  The code is prepared to reescale images to make them fit into the two screens but for best results, use the native resolution.
+
+### To use the file-->
+    You need to remember its full name *Example *faceexpression1.png* even the extension matters.
+
+    And go to *replaceWithYourUserName/rpi-rgb-led-matrix/bindings/python/samples* and paste it there. 
+    
+    Then just execute the code with the previous command *sudo python3 image-viewer.py *yourimageNAME.png* 
+
+##    You are all set!!

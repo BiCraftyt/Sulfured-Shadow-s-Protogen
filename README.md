@@ -17,7 +17,7 @@ Here I will post and share all my progress in case someone wants to follow my bu
 > [!CAUTION]
 > It's EXTREMELY important to remember that MY PROJECT IS ONLY FOR THOSE COMPONENTS, if you have different ones, like less/more screens with different resolutions or different bonnet, YOU WILL NEED TO CHANGE THE SETTINGS in the code, where it sais Matrix settings.
 
-> [!NOTE]  
+> [!IMPORTANT]  
 > If you are using the Adafruit Bonnet like me, you can power everything safely like in the diagram below; but REMEMBER you are ONLY able to draw a maximum of 1.5A or 2.5A depending on the port.
 > Also if you are having stability issues, wierd glitches or something off on the screens, most probably the issue is the power is not enought, check power consumption and connections.
 

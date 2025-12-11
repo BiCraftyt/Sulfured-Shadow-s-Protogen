@@ -11,7 +11,7 @@
 
 Here I will post and share all my progress in case someone wants to follow my build :3
 
-## BTW I'm going ot use two Adafruit RGB Matrix 32*64 pixels and a Adafruit Bonnet or HAT.
+## BTW I'm going ot use two **Adafruit* RGB Matrix 32*64 pixels **4mm** **pitch** and a **Adafruit** **Bonnet** or **HAT**.
 
 > [!CAUTION]
 > It's EXTREMELY important to remember that MY PROJECT IS ONLY FOR THOSE COMPONENTS, if you have different ones, like less/more screens with different resolutions or different bonnet, YOU WILL NEED TO CHANGE THE SETTINGS in the code, where it sais Matrix settings.
@@ -22,7 +22,7 @@ Here I will post and share all my progress in case someone wants to follow my bu
 
 >  [!NOTE]
 >  Since in this case max power draw is 2.5A and each screen draws a max of 2A that means really white images may not work or restart completly the system.
-> Lastly, Raspberry Pi Zero 2W with RaspiOS no graphical enviroment consumes about 300mA and two screens plus RPI 2W aobut 700mA to 1A.
+> Lastly, Raspberry Pi Zero 2W with RaspiOS no graphical enviroment consumes about **300mA** and two screens plus RPI 2W aobut **700mA to 1A**.
 
 ## Color Reference
 

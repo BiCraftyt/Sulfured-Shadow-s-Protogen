@@ -21,7 +21,7 @@ Here I will post and share all my progress in case someone wants to follow my bu
 > If you are using the Adafruit Bonnet like me, you can power everything safely like in the diagram below; but REMEMBER you are ONLY able to draw a maximum of 1.5A or 2.5A depending on the port.
 > Also if you are having stability issues, wierd glitches or something off on the screens, most probably the issue is the power is not enought, check power consumption and connections.
 
->  [!INFO]
+>  [!NOTE]
 >  Since in this case max power draw is 2.5A and each screen draws a max of 2A that means really white images may not work or restart completly the system.
 > Lastly, Raspberry Pi Zero 2W with RaspiOS no graphical enviroment consumes about 300mA and two screens plus RPI 2W aobut 700mA to 1A.
 

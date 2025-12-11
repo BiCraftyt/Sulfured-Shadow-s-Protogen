@@ -45,7 +45,10 @@ Here I will post and share all my progress in case someone wants to follow my bu
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-To change the face expressions you first have to create your own, though I left a demo one.
+
+## Face expressions
+
+To change the face expressions you first have to create **your own**, though I left a demo one.
 
 To execute the desired face you need to be inside of 
 

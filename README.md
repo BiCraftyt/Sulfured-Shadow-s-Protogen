@@ -38,11 +38,6 @@ Here I will post and share all my progress in case someone wants to follow my bu
 | Fur, foam, and other cosmetic stuf is up to you | Not sure what's the best place yet |
 | Battery pack | 18650 cells of 3Ah each inside a cheap enclousure, total of 6Ah, for now |
 | LEDs used on the side caps, 1M 60 LEDs IP30 | (https://es.aliexpress.com/item/1005008142650081.html?spm=a2g0o.productlist.main.1.47216d98FSaGpa&aem_p4p_detail=2025120902140811934355016105520000159046&algo_pvid=3c16e631-b12f-473b-9fb1-db4729874a4a&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008142650081%7C_p_origin_prod%3A&search_p4p_id=2025120902140811934355016105520000159046_1) |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 

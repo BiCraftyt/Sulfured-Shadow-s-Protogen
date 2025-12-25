@@ -77,3 +77,6 @@ Although anything used for PixelArt should work just fine.
     Then just execute the code with the previous command *sudo python3 image-viewer.py *yourimageNAME.png* 
 
 ##    You are all set!!
+
+> [!IMPORTANT]
+>All the code its not mine, I just remade a cuple files, such as the image-viewer, the library is from **hzeller** [github.com/hzeller/rpi-rgb-led-matrix]

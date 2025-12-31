@@ -14,7 +14,7 @@ Here I will post and share all my progress in case someone wants to follow my bu
 ## BTW I'm going ot use two *Adafruit* RGB Matrix 32*64 pixels 4mm pitch and a *Adafruit* Bonnet or HAT.
 
 > [!CAUTION]
-> It's EXTREMELY important to remember that MY PROJECT IS ONLY FOR THOSE COMPONENTS, if you have different ones, like less/more screens with different resolutions or different bonnet, YOU WILL NEED TO CHANGE THE SETTINGS in the code, where it sais Matrix settings.
+> It's EXTREMELY important to remember that MY PROJECT IS ONLY FOR THOSE COMPONENTS, if you have different ones, like less/more screens with different resolutions or different bonnet, YOU WILL NEED TO CHANGE THE SETTINGS in the code, where it says Matrix settings.
 
 > [!IMPORTANT]  
 > If you are using the Adafruit Bonnet like me, you can power everything safely like in the diagram below; but REMEMBER you are ONLY able to draw a maximum of 1.5A or 2.5A depending on the port.

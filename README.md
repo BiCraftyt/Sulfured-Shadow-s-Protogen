@@ -56,7 +56,7 @@ and execute the code:
 setting parameters with; --led-cols; for defining how mani columns you have or width, --led-rows; for stating the screen height, etc.
 > Better explained in hzeller"s [repo](https://github.com/hzeller/rpi-rgb-led-matrix) in the following section
 
-##Types of Displays 
+## Types of Displays 
 
 
 ## To create your own custom face expressions I recommend using Paint.net

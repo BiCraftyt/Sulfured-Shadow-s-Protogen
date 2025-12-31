@@ -4,12 +4,11 @@
 
 
 
-
-
-## What's all about?
 ## Description
 
+
 Here I will post and share all my progress in case someone wants to follow my build :3
+
 
 ## BTW I'm going ot use two *Adafruit* RGB Matrix 32*64 pixels 4mm pitch and a *Adafruit* Bonnet or HAT.
 

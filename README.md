@@ -27,7 +27,7 @@ Here I will post and share all my progress in case someone wants to follow my bu
 
 | Components            |  Where to buy in Spain                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| RGB LED MATRIX 64*32 Adafruit 4mm Pitch  |  (https://www.digikey.es/en/products/detail/adafruit-industries-llc/2278/7035036)  |
+| RGB LED MATRIX 64*32 Adafruit 4mm Pitch  |  [here](https://www.digikey.es/en/products/detail/adafruit-industries-llc/2278/7035036)  |
 | Raspberry Pi Zero 2W | (https://www.amazon.es/Copy-Raspberry-Pi-Zero-W/dp/B09KLVX4RT/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-skills&sr=1-1) |
 | Adafruit Hat | (https://www.amazon.es/AdaFruit-RGB-Matrix-Cerebros-Raspberry/dp/B07DNBLXV2/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-skills&sr=1-1)) |
 |Power Delivery Module Trigger | (https://es.aliexpress.com/item/1005005116710949.html?spm=a2g0o.productlist.main.11.210113b2w0P6aK&algo_pvid=b4460094-e0d3-47d8-bf43-c9929dc90e37&pdp_ext_f=%7B%22order%22%3A%229%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005116710949%7C_p_origin_prod%3A#nav-description) |

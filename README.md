@@ -44,13 +44,20 @@ Here I will post and share all my progress in case someone wants to follow my bu
 
 To change the face expressions you first have to create **your own**, though I left a demo one.
 
-To execute the desired face you need to be inside of 
+To execute the desired face you need to be inside of --
 
-"yourusername/rpi-rgb-led-matrix/bindings/python/samples" 
+**"yourusername/rpi-rgb-led-matrix/bindings/python/samples"**
 
 and execute the code:
 
-   "sudo python3 image-viewer.py *name_of_your_image.jpg or .png*
+   "sudo python3 image-viewer.py *name_of_your_image.jpg or .png*"
+
+>  If you hadn't configured the programn with your hardware in first place, such as for a test, you would need to add extra code in the terminal, 
+setting parameters with; --led-cols; for defining how mani columns you have or width, --led-rows; for stating the screen height, etc.
+> Better explained in hzeller"s [repo](https://github.com/hzeller/rpi-rgb-led-matrix) in the following section
+
+##Types of Displays 
+
 
 ## To create your own custom face expressions I recommend using Paint.net
 

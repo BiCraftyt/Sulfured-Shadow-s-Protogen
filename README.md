@@ -59,7 +59,7 @@ setting parameters with; --led-cols; for defining how mani columns you have or w
 ## Types of Displays 
 
 
-## To create your own custom face expressions I recommend using Paint.net
+## To create your own custom face expressions I recommend using Paint.net or Piskel
 
 ![alt text][logo]
 
